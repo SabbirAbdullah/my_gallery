@@ -22,7 +22,6 @@ class _SplashScreenState extends State<SplashScreen> {
       Get.off(() => HomeScreen());
     });
   }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
